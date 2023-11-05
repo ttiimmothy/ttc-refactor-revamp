@@ -2,8 +2,9 @@
   "name": "ttc_refractor_revamp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ttc.ttiimmothy.com",
   "scripts": {
-    "dev": "next dev --port 5178",
+    "dev": "next dev --port 5173",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
