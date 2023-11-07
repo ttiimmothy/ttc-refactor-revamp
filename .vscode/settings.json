@@ -2,5 +2,5 @@
   "files.associations": {
     "*.css": "tailwindcss"
   },
-  "cSpell.words": ["tailwindcss"]
+  "cSpell.words": ["jetbrains", "tailwindcss", "tsbuildinfo", "vercel"]
 }
