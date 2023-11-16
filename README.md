@@ -1,6 +1,7 @@
-# TTC Refractor Revamp
+# TTC Refactor Revamp
+[![ci](https://github.com/ttiimmothy/ttc-refactor-revamp/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/ttc-refactor-revamp/actions/workflows/ci.yml)
 
-TTC Refractor Revamp is a revamp for [TTC Refractor](https://github.com/ttiimmothy/ttc-refractor) by using `Next.js` and `Tailwind CSS`. Since it used `Fluent UI` in `TTC Refractor`, there were many constraints in building a complex web application.
+TTC Refactor Revamp is a revamp for [TTC Refactor](https://github.com/ttiimmothy/ttc-refactor) by using `Next.js` and `Tailwind CSS`. Since it uses `Fluent UI` in [TTC Refactor](https://github.com/ttiimmothy/ttc-refactor), there are many constraints in building a complex web application.
 
 ## Prerequisites
 
@@ -18,4 +19,4 @@ npm run dev
 
 ## License
 
-TTC Refractor Revamp is licensed under the Apache License 2.0.
+TTC Refactor Revamp is licensed under [GNU General Public License v3.0](LICENSE).
